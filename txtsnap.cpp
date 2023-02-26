@@ -6,5 +6,5 @@ using namespace std;
    float a = {10};
 
     cout<<"Hello world"<< a+a;
-    return 1;
+    return 0;
  }
