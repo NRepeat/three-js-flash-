@@ -3,6 +3,8 @@
 using namespace std;
  
  int main() {
-    cout<<"Hello world";
+   float a = {10};
+
+    cout<<"Hello world"<< a+a;
     return 1;
  }
